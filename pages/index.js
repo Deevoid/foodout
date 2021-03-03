@@ -1,6 +1,5 @@
 import Head from 'next/head'
 import Login from '../components/Login'
-// import "tailwindcss/tailwind.css";
 
 export default function Home() {
   return (

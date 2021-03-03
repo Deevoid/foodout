@@ -20,6 +20,7 @@
     "postcss-loader": "^4.2.0",
     "sass-loader": "^11.0.1",
     "style-loader": "^2.0.0",
+    "styled-jsx-plugin-postcss": "^4.0.1",
     "styled-jsx-plugin-sass": "^1.0.0",
     "tailwindcss": "^2.0.3"
   }

@@ -12,14 +12,6 @@ module.exports = {
 				},
 			],
 		});
-
-    config.module.rules.push({
-        test: /\.css$/i,
-        use: [ 'css-loader', 'postcss-loader'],
-		});
-
-    
-
 		return config;
 	},
 };
